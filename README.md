@@ -1,6 +1,6 @@
 ### Olá Developers 👋
 
-Estou em transição para me tornar um desenvolvedor front-end tenho conhecimentos e habilidades em projetos criados utilizando HTML, CSS e Javascript.
+Estou em transição para me tornar um desenvolvedor front-end e nessa caminhada quero evoluir e participar ativamente da comunidade contribuindo em projetos e desenvolvendo cada dia melhor.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
