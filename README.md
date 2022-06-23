@@ -30,11 +30,11 @@ object **GABRIEL* {
 
 ## **GitHub Estatísticas**
 
-<a href="https://github.com/Gurupreet">
+<a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Borgess&theme=dracula&hide_langs_below=1" />
 </a>
 
-<a href="https://github.com/Gurupreet">
+<a href="#">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Borgess&show_icons=true&theme=dracula&line_height=27" alt="**GABRIEL BORGES** github stats"/>
 </a>
 
