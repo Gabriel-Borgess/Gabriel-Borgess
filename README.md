@@ -36,6 +36,7 @@ In addition to software development, I'm interested in:
 - 🔒 Cybersecurity and web security practices
 - 🎨 UI/UX design and creating intuitive user experiences
 - 🤖 Artificial Intelligence
+- 👨‍💼 Bussiness
 
 
 ## **GitHub Statistics**
