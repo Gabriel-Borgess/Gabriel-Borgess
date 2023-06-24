@@ -6,7 +6,10 @@
 <h3 align="left">Connect with me:</h3>
 🏡 [website]: In construction.... **|**
 <br>
-👔 LinkedIn: [Gabriel Borges](https://www.linkedin.com/in/gabriel-borgess/)
+👔 LinkedIn: [Gabriel Borges][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/gabriel-borgess/
+
 <p align="left">
 </p>
 
