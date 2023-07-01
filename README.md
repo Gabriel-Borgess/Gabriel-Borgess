@@ -1,6 +1,6 @@
 
 # 👋 Gabriel Borges
-### Full Stack Developer | Tech Enthusiast | Problem Solver
+### Full Stack Developer | Tech Enthusiast |
 
 Hello there! 👋 I'm Gabriel Borges, a technology enthusiast and a passionate Full Stack Developer dedicated to creating innovative solutions. With a strong background in web development, I am constantly evolving and honing my skills to deliver exceptional products.
 
