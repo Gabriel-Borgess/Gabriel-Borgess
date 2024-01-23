@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Hi, I'm Gabriel Borges!<br>   i lke cybersecurity, coding and indie hacking  </p>
+<p align="center">Hi, I'm Gabriel Borges!<br>   i like cybersecurity, coding and indie hacking  </p>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">🚀 cybersec researcher and software developer, I'm always up for challenges to explore and create innovative and secure software solutions.<br><br>💻 My core skills include programming in various languages, software architecture, and security analysis.<br><br>🔐 My passion for cybersecurity drives me to understand the complexities of the digital world, i like CTF's too</p>
+<p align="left">🚀 cybersec and software developer, I'm always up for challenges to explore and create innovative and secure software solutions.<br><br>💻 My core skills include programming in various languages, software architecture, and security analysis.<br><br>🔐 My passion for cybersecurity drives me to understand the complexities of the digital world, i like CTF's too</p>
 
 ###
 
@@ -79,4 +79,5 @@
 ###
 
 
+###
 ###
